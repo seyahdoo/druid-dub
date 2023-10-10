@@ -1,15 +1,15 @@
 dm: Şamanım, karakterin karargahın yakıninda gizlenirken
 birkaç askerin sana dogru gelidiğini farkediyosun.
 
-şaman: Uuhh, ağaç oluyorum.
+şaman: Ağaç oluyorum.
 
-dm: Ovanın ortasındasın abi, eminmisin bunu yapmak istediğine
+dm: Ovanın ortasındasın abi, eminmisin.
 
-şaman: huh, yep.
+şaman: Evet.
 
-asker: şuraya baksana ya, orda bi ağaç varmıydı ya baya?
+asker: haydar abi şuraya baksana ya, orda bi ağaç varmıydı yaw?
 
-şaman: ne diyon abi, haftalardir burdaydim ben
+şaman: ne diyon lan kafir, benim gölgemde yaptilar lan seni.
 
 dm: bi blöf çek alayim
 
